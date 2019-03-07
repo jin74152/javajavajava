@@ -3,7 +3,7 @@ package javajavajava;
 public class javajava {
 
 	public static void main(String[] args) {
-		System.out.println("HelloSpring프로그래밍!!!!!");
+		System.out.println("Hello Spring boot 프로그래밍!!!");
 
 	}
 
